@@ -1,0 +1,30 @@
+
+#was{
+    
+   border: solid 0px rgb(11, 11, 11);
+   border-radius: 70px 0px 70px 0px;
+   margin: 40px 30px;
+   margin-top: 40px;
+   padding: 30px;
+   background-color: rgb(12, 12, 141);
+   position: relative;
+
+}
+
+#was h1{
+    /**font-style: italic;**/
+    color: rgb(19, 227, 67);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.eee{
+    font-style: none;
+    color: white;
+}
+
+.fff{
+    font-style: none;
+    color: white;
+    
+}
